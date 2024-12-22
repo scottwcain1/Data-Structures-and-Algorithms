@@ -2,7 +2,7 @@
 // Name        : HashTable.cpp
 // Author      : Scott Cain
 // Version     : 1.0
-// Copyright   : Copyright © 2023 SNHU COCE
+// Copyright   : Copyright Â© 2023 SNHU COCE
 // Description : Final Project Using Hash Table
 //============================================================================
 
